@@ -1,0 +1,941 @@
+STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,ACTION,REF_AREA,Reference area,MEASURE,Measure,UNIT_MEASURE,Unit of measure,TIME_PERIOD,Time period,OBS_VALUE,Observation value,OBS_STATUS,Observation status
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUT,Austria,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,9.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHL,Chile,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,22.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CZE,Czechia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,21.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FRA,France,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DEU,Germany,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,12.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HUN,Hungary,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,3.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ITA,Italy,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,6.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LVA,Latvia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,19.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NLD,Netherlands,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,7.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,POL,Poland,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRT,Portugal,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,9.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ESP,Spain,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,13.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWE,Sweden,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,3.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUR,Türkiye,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,21.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G7,G7,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,16.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EU,European Union,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,18.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARM,Armenia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,26.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BOL,Bolivia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,9.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRA,Brazil,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,21.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BDI,Burundi,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,33.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CYP,Cyprus,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,8.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EGY,Egypt,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,31.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GEO,Georgia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,21.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GEO,Georgia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,27.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GTM,Guatemala,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,28.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HTI,Haiti,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,46.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HND,Honduras,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,31.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IDN,Indonesia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,36.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JAM,Jamaica,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KAZ,Kazakhstan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,21.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KWT,Kuwait,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,69.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBN,Lebanon,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,36.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MWI,Malawi,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,12.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MYS,Malaysia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,60.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLT,Malta,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,39.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MRT,Mauritania,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,54.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDA,Moldova,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,15.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNE,Montenegro,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,5.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MMR,Myanmar,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,33.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NPL,Nepal,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NGA,Nigeria,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,35.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MKD,North Macedonia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SEN,Senegal,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,40.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SSD,South Sudan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,60.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TJK,Tajikistan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,40.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TLS,Timor-Leste,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,37.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TGO,Togo,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,51.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UKR,Ukraine,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,21.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,URY,Uruguay,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,12.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VNM,Viet Nam,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,38.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,YEM,Yemen,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,54.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,A,America,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,21.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,W,World,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,29.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUS,Australia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAN,Canada,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,18.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CZE,Czechia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,15.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FIN,Finland,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,24.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRL,Ireland,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,24.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISR,Israel,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,40.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MEX,Mexico,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,5.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MEX,Mexico,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,21.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVN,Slovenia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,21.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OECD,OECD,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,15.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DZA,Algeria,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,44.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AGO,Angola,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,22.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AZE,Azerbaijan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,23.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BLZ,Belize,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,19.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGR,Bulgaria,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAF,Central African Republic,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,49.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAF,Central African Republic,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,48.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TCD,Chad,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,13.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COG,Congo,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,57.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HRV,Croatia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,31.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DOM,Dominican Republic,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLV,El Salvador,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,15.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ETH,Ethiopia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,39.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GHA,Ghana,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,25.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GIN,Guinea,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,28.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HTI,Haiti,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,61.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HKG,Hong Kong (China),SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,30.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRN,Iran,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,52.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KEN,Kenya,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,30.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LSO,Lesotho,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,64.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MYS,Malaysia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,60.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MRT,Mauritania,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,67.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MUS,Mauritius,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,5.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MMR,Myanmar,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,47.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRY,Paraguay,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,3.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ROU,Romania,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,19.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SAU,Saudi Arabia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,79.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SEN,Senegal,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,5.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLE,Sierra Leone,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,47.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SOM,Somalia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,39.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TJK,Tajikistan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,23.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TTO,Trinidad and Tobago,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,15.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,URY,Uruguay,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,19.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VEN,Venezuela,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,26.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,S,Asia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,33.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BIH,Bosnia and Herzegovina,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,13.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRD,Grenada,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CRI,Costa Rica,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,4.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRC,Greece,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,18.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JPN,Japan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,27.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LUX,Luxembourg,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,6.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NOR,Norway,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,0.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVK,Slovak Republic,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,4.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVN,Slovenia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,23.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHE,Switzerland,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,9.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,USA,United States,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,28.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,USA,United States,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,15.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G20,G20,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,18.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ALB,Albania,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,4.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AZE,Azerbaijan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,22.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BLZ,Belize,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,20.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BTN,Bhutan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,32.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BIH,Bosnia and Herzegovina,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,39.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BWA,Botswana,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BWA,Botswana,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,53.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGR,Bulgaria,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,26.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BFA,Burkina Faso,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,29.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BFA,Burkina Faso,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,25.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KHM,Cambodia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,29.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TCD,Chad,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,45.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COM,Comoros,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,54.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CUB,Cuba,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,9.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DOM,Dominican Republic,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,16.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ETH,Ethiopia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,23.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GAB,Gabon,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,20.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GAB,Gabon,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,41.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GHA,Ghana,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,52.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GIN,Guinea,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,33.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IND,India,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,60.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IND,India,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,43.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JOR,Jordan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,58.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,XKV,Kosovo,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,20.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KGZ,Kyrgyzstan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,33.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBR,Liberia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,18.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDV,Maldives,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,30.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MUS,Mauritius,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,35.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MAR,Morocco,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NIC,Nicaragua,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,10.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAN,Panama,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,15.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,QAT,Qatar,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,60.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SRB,Serbia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,13.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SRB,Serbia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,12.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZAF,South Africa,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,18.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZAF,South Africa,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,12.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SDN,Sudan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,85.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYR,Syrian Arab Republic,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,82.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,THA,Thailand,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,20.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TKM,Turkmenistan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,36.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,E,Europe,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,10.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,F,Africa,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,29.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVK,Slovak Republic,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,22.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNB,Guinea-Bissau,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,42.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUS,Australia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,15.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUT,Austria,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEL,Belgium,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,7.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DNK,Denmark,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,6.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ITA,Italy,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,9.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JPN,Japan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,30.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LTU,Lithuania,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NZL,New Zealand,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,10.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NZL,New Zealand,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,20.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWE,Sweden,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,13.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G7,G7,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,15.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OECD,OECD,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,12.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHR,Bahrain,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,28.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGD,Bangladesh,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,36.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BOL,Bolivia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,19.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CMR,Cameroon,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CMR,Cameroon,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,86.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHN,China (People’s Republic of),SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,29.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COM,Comoros,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,87.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CIV,Côte d’Ivoire,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,28.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CYP,Cyprus,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,27.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DJI,Djibouti,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,72.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EGY,Egypt,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,45.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWZ,Eswatini,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,55.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GMB,Gambia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,42.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,XKV,Kosovo,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,20.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNG,Mongolia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,13.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNG,Mongolia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,3.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MAR,Morocco,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,80.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NIC,Nicaragua,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,21.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NER,Niger,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,22.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAK,Pakistan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,48.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAN,Panama,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,1.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PHL,Philippines,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,49.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,RWA,Rwanda,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,35.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SGP,Singapore,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,39.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LKA,Sri Lanka,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,53.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SDN,Sudan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,35.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,THA,Thailand,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,21.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UGA,Uganda,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,27.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UZB,Uzbekistan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,45.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VNM,Viet Nam,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,24.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZMB,Zambia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,31.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,A,America,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,20.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,E,Europe,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,F,Africa,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,39.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DEU,Germany,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,16.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TKM,Turkmenistan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,22.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUS,Australia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,13.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUS,Australia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,22.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUT,Austria,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FRA,France,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,10.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HUN,Hungary,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,26.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISL,Iceland,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,30.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ITA,Italy,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LTU,Lithuania,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVN,Slovenia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,17.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ESP,Spain,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,4.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ESP,Spain,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,14.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUR,Türkiye,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,29.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GBR,United Kingdom,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,23.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GBR,United Kingdom,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,12.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EU,European Union,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,12.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AGO,Angola,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,25.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRA,Brazil,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,21.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CIV,Côte d’Ivoire,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,14.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HRV,Croatia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,16.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWZ,Eswatini,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,48.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GTM,Guatemala,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,29.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IDN,Indonesia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,17.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRN,Iran,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,62.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JAM,Jamaica,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,18.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KAZ,Kazakhstan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,11.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KEN,Kenya,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,35.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KEN,Kenya,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,40.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MWI,Malawi,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,50.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MYS,Malaysia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,85.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDA,Moldova,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDA,Moldova,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,11.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNE,Montenegro,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MMR,Myanmar,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,33.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NER,Niger,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,84.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NGA,Nigeria,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,43.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MKD,North Macedonia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,16.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAK,Pakistan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,53.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,RWA,Rwanda,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,5.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLE,Sierra Leone,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,50.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SGP,Singapore,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,45.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SSD,South Sudan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,17.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TJK,Tajikistan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,41.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TGO,Togo,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,36.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TTO,Trinidad and Tobago,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,24.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TTO,Trinidad and Tobago,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,28.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,URY,Uruguay,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,31.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VNM,Viet Nam,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,10.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,W,World,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,27.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,W,World,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,37.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRB,Barbados,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,36.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRN,Brunei Darussalam,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,91.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHN,China (People’s Republic of),SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,45.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GEO,Georgia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,41.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JAM,Jamaica,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,29.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MYS,Malaysia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,43.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLE,Sierra Leone,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,41.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TLS,Timor-Leste,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,25.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,URY,Uruguay,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,22.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VNM,Viet Nam,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,37.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHL,Chile,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,60.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COL,Colombia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,23.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DNK,Denmark,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,16.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EST,Estonia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,0.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRC,Greece,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,6.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HUN,Hungary,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,15.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISR,Israel,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,34.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JPN,Japan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,29.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,POL,Poland,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWE,Sweden,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,8.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GBR,United Kingdom,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,5.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G7,G7,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,13.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G20,G20,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,20.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ALB,Albania,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,8.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARG,Argentina,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,34.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARM,Armenia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,23.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHR,Bahrain,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,89.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BTN,Bhutan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,45.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BOL,Bolivia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,26.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CPV,Cabo Verde,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,16.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COM,Comoros,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,30.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CUB,Cuba,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,21.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COD,Democratic Republic of the Congo,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,64.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ECU,Ecuador,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,8.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EGY,Egypt,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,79.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FJI,Fiji,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,16.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GMB,Gambia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,31.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HTI,Haiti,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,34.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IND,India,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,51.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JAM,Jamaica,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,15.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LAO,Lao People’s Democratic Republic,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,23.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBN,Lebanon,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,88.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNE,Montenegro,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,17.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NAM,Namibia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,4.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NAM,Namibia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,27.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MKD,North Macedonia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,22.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PSE,Palestinian Authority or West Bank and Gaza Strip,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,35.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRY,Paraguay,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,40.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PER,Peru,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,4.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PHL,Philippines,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,56.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SAU,Saudi Arabia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,59.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SOM,Somalia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,53.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SOM,Somalia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,51.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LKA,Sri Lanka,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,62.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TWN,Chinese Taipei,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,7.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TWN,Chinese Taipei,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,9.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,THA,Thailand,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,46.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TGO,Togo,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,28.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UKR,Ukraine,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,11.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZMB,Zambia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,32.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZWE,Zimbabwe,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,19.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,F,Africa,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,52.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HRV,Croatia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CRI,Costa Rica,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,10.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EST,Estonia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,25.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EST,Estonia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,21.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EST,Estonia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,3.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FIN,Finland,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,0.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRC,Greece,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LUX,Luxembourg,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NOR,Norway,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,13.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NOR,Norway,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,8.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,USA,United States,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,13.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G20,G20,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,28.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G20,G20,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,23.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AGO,Angola,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,9.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARG,Argentina,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,18.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARG,Argentina,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,17.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BTN,Bhutan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,19.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BTN,Bhutan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,25.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BWA,Botswana,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,19.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KHM,Cambodia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,17.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KHM,Cambodia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,21.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TCD,Chad,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,45.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COD,Democratic Republic of the Congo,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COD,Democratic Republic of the Congo,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,46.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GAB,Gabon,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,38.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GMB,Gambia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,47.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KGZ,Kyrgyzstan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,36.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LAO,Lao People’s Democratic Republic,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,24.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LAO,Lao People’s Democratic Republic,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,24.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NAM,Namibia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,26.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NIC,Nicaragua,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,25.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NIC,Nicaragua,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,19.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NER,Niger,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,60.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PER,Peru,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,8.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PER,Peru,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,36.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PHL,Philippines,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,49.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,STP,Sao Tome and Principe,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,5.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZAF,South Africa,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,23.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LKA,Sri Lanka,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,63.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SDN,Sudan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,64.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYR,Syrian Arab Republic,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,68.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TWN,Chinese Taipei,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,0.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUN,Tunisia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,36.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUN,Tunisia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,79.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UGA,Uganda,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,5.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UGA,Uganda,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,28.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UKR,Ukraine,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,14.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZMB,Zambia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,27.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZWE,Zimbabwe,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,29.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZWE,Zimbabwe,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,18.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LUX,Luxembourg,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,10.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G7,G7,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G20,G20,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,25.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BTN,Bhutan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,39.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BOL,Bolivia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,20.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TCD,Chad,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,29.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IND,India,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,41.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LKA,Sri Lanka,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,44.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SDN,Sudan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,89.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UGA,Uganda,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZWE,Zimbabwe,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,19.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COL,Colombia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,28.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COL,Colombia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,21.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FIN,Finland,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,12.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HUN,Hungary,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ITA,Italy,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,6.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JPN,Japan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,32.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NOR,Norway,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,4.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,POL,Poland,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,18.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GBR,United Kingdom,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,3.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,USA,United States,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,19.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AGO,Angola,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,39.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARG,Argentina,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGR,Bulgaria,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,18.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KHM,Cambodia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,21.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TCD,Chad,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,78.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHN,China (People’s Republic of),SIGI,SIGI score,0_TO_100,0-100 scale,2023,,27.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HRV,Croatia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HRV,Croatia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,6.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ECU,Ecuador,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,23.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ECU,Ecuador,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,17.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GTM,Guatemala,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GIN,Guinea,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,56.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IND,India,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,13.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IDN,Indonesia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,44.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBY,Libya,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,54.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MYS,Malaysia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,46.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PSE,Palestinian Authority or West Bank and Gaza Strip,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,80.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PSE,Palestinian Authority or West Bank and Gaza Strip,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,51.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,QAT,Qatar,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,70.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,QAT,Qatar,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,38.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SOM,Somalia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,36.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUN,Tunisia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,11.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,URY,Uruguay,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,10.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VNM,Viet Nam,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,7.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUS,Australia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,17.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HUN,Hungary,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,21.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LTU,Lithuania,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,19.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AGO,Angola,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,29.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BWA,Botswana,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,34.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COM,Comoros,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,59.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COD,Democratic Republic of the Congo,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,52.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWZ,Eswatini,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,47.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FJI,Fiji,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,26.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GAB,Gabon,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,26.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GMB,Gambia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,66.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IDN,Indonesia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,80.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KEN,Kenya,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,25.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LAO,Lao People’s Democratic Republic,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,27.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NAM,Namibia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,48.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NER,Niger,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,84.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MKD,North Macedonia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,22.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PER,Peru,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,21.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,STP,Sao Tome and Principe,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TWN,Chinese Taipei,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,22.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UKR,Ukraine,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,16.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,F,Africa,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,39.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,W,World,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,26.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHL,Chile,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,7.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHL,Chile,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,27.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FRA,France,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,10.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LVA,Latvia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,21.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NLD,Netherlands,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,0.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NZL,New Zealand,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,14.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,POL,Poland,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,20.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUR,Türkiye,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,13.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EU,European Union,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,15.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGD,Bangladesh,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,42.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEN,Benin,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,57.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRA,Brazil,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,21.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CMR,Cameroon,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,55.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CIV,Côte d’Ivoire,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,12.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EGY,Egypt,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,54.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GEO,Georgia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,17.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HND,Honduras,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,15.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HND,Honduras,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,26.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IDN,Indonesia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JAM,Jamaica,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,19.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KEN,Kenya,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,32.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBN,Lebanon,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,57.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MWI,Malawi,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,24.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLT,Malta,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MRT,Mauritania,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NPL,Nepal,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,47.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MKD,North Macedonia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,38.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PNG,Papua New Guinea,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,42.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRY,Paraguay,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,9.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ROU,Romania,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,15.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,WSM,Samoa,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,21.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SAU,Saudi Arabia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,29.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SEN,Senegal,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLE,Sierra Leone,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,47.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLB,Solomon Islands,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,41.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UZB,Uzbekistan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,41.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VEN,Venezuela,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,4.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,A,America,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,22.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,W,World,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,27.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ITA,Italy,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,15.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ESP,Spain,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,3.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GBR,United Kingdom,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,13.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARG,Argentina,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,7.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CPV,Cabo Verde,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CYP,Cyprus,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,42.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EGY,Egypt,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,56.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GTM,Guatemala,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,29.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GIN,Guinea,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,34.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KAZ,Kazakhstan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,14.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBN,Lebanon,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,55.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDA,Moldova,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,5.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNE,Montenegro,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,14.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MMR,Myanmar,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,54.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SOM,Somalia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,71.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TJK,Tajikistan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,51.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TTO,Trinidad and Tobago,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,33.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZMB,Zambia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,31.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUT,Austria,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,11.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COL,Colombia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,33.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DNK,Denmark,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,24.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DEU,Germany,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,17.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISL,Iceland,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,19.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRL,Ireland,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,11.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LTU,Lithuania,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,6.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRT,Portugal,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,13.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ESP,Spain,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,9.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EU,European Union,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,13.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARM,Armenia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,24.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEN,Benin,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,34.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BOL,Bolivia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,26.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BDI,Burundi,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,25.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHN,China (People’s Republic of),SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COM,Comoros,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,29.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DJI,Djibouti,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,43.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ETH,Ethiopia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,30.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GMB,Gambia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,46.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRQ,Iraq,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,60.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,XKV,Kosovo,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,33.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDV,Maldives,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,79.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLI,Mali,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,69.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MOZ,Mozambique,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,32.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NAM,Namibia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,26.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NER,Niger,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,33.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OMN,Oman,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,86.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAK,Pakistan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,86.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAN,Panama,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,20.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PER,Peru,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,18.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,RWA,Rwanda,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,15.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LKA,Sri Lanka,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,41.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SDN,Sudan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,33.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TWN,Chinese Taipei,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,5.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TZA,Tanzania,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,86.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JPN,Japan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,44.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHS,Bahamas,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,49.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHR,Bahrain,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,57.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CMR,Cameroon,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,66.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CIV,Côte d’Ivoire,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,17.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ECU,Ecuador,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,18.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NIC,Nicaragua,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,28.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PHL,Philippines,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,41.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,QAT,Qatar,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,36.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUN,Tunisia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,46.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEL,Belgium,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CRI,Costa Rica,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,13.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRC,Greece,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,39.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISR,Israel,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,26.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KOR,Korea,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,20.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KOR,Korea,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,19.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MEX,Mexico,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,39.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NZL,New Zealand,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,16.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVN,Slovenia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,17.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWE,Sweden,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,2.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,G7,G7,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,21.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ALB,Albania,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ALB,Albania,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AZE,Azerbaijan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,21.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BLZ,Belize,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,18.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BWA,Botswana,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,31.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAF,Central African Republic,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,45.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DOM,Dominican Republic,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,3.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ECU,Ecuador,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,17.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HKG,Hong Kong (China),SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,22.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRQ,Iraq,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,54.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JOR,Jordan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,89.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KGZ,Kyrgyzstan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,26.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LAO,Lao People’s Democratic Republic,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,25.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBR,Liberia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,42.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBR,Liberia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,27.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDG,Madagascar,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,50.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLI,Mali,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,52.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNG,Mongolia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,19.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MAR,Morocco,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,49.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,QAT,Qatar,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,85.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SRB,Serbia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,12.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUN,Tunisia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,46.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UGA,Uganda,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,40.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZWE,Zimbabwe,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,8.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,F,Africa,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,32.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COL,Colombia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRC,Greece,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,12.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NOR,Norway,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,6.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,USA,United States,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,18.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BLZ,Belize,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,10.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGR,Bulgaria,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,18.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KHM,Cambodia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,17.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CUB,Cuba,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,23.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBY,Libya,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,86.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDV,Maldives,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PSE,Palestinian Authority or West Bank and Gaza Strip,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,41.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAN,Panama,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,25.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYC,Seychelles,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZAF,South Africa,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,52.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYR,Syrian Arab Republic,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,43.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAN,Canada,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,20.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CRI,Costa Rica,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,20.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FIN,Finland,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,3.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISR,Israel,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,23.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MEX,Mexico,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,23.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OECD,OECD,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,18.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AZE,Azerbaijan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,49.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BIH,Bosnia and Herzegovina,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,21.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGR,Bulgaria,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,21.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COG,Congo,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,55.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COD,Democratic Republic of the Congo,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,34.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLV,El Salvador,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,19.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GAB,Gabon,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,32.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GIN,Guinea,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,13.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HKG,Hong Kong (China),SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,16.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRN,Iran,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,89.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MWI,Malawi,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,34.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNE,Montenegro,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,13.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NPL,Nepal,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,30.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NGA,Nigeria,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,61.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PSE,Palestinian Authority or West Bank and Gaza Strip,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,39.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRY,Paraguay,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,25.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PHL,Philippines,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,50.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ROU,Romania,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,14.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLE,Sierra Leone,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,50.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SSD,South Sudan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,31.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SUR,Suriname,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,61.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TGO,Togo,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,46.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UKR,Ukraine,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,17.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VEN,Venezuela,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,23.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZMB,Zambia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,34.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,S,Asia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,37.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AUT,Austria,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,5.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EST,Estonia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,13.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FIN,Finland,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,18.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVN,Slovenia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ATG,Antigua and Barbuda,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,44.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAF,Central African Republic,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,31.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DOM,Dominican Republic,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,29.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ERI,Eritrea,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,55.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ETH,Ethiopia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,40.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HTI,Haiti,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,37.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KGZ,Kyrgyzstan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,19.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MRT,Mauritania,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,88.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,RWA,Rwanda,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,17.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SAU,Saudi Arabia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,54.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLB,Solomon Islands,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,59.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TGO,Togo,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,18.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CZE,Czechia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,10.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DNK,Denmark,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,15.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FRA,France,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,16.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LVA,Latvia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,0.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LTU,Lithuania,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,12.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NLD,Netherlands,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,10.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NLD,Netherlands,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,9.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRT,Portugal,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,4.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRT,Portugal,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARM,Armenia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,16.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEN,Benin,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,22.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BDI,Burundi,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,62.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHN,China (People’s Republic of),SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,22.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CIV,Côte d’Ivoire,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,12.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GTM,Guatemala,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,25.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GUY,Guyana,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,20.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GUY,Guyana,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,21.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HTI,Haiti,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,49.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KWT,Kuwait,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,82.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBN,Lebanon,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,38.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LSO,Lesotho,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,21.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLI,Mali,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,44.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLT,Malta,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,13.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MRT,Mauritania,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,84.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MOZ,Mozambique,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,12.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MMR,Myanmar,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,63.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SAU,Saudi Arabia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,66.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SSD,South Sudan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,37.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SUR,Suriname,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,14.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TJK,Tajikistan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,41.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TTO,Trinidad and Tobago,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,25.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARE,United Arab Emirates,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,80.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,YEM,Yemen,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,71.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHL,Chile,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,8.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DNK,Denmark,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,11.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISL,Iceland,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,3.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,POL,Poland,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,11.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,EU,European Union,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,7.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARM,Armenia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,27.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEN,Benin,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,37.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BDI,Burundi,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,37.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DJI,Djibouti,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,10.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DMA,Dominica,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HND,Honduras,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,16.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRN,Iran,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,36.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,XKV,Kosovo,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,12.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LSO,Lesotho,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,37.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLT,Malta,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,7.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NGA,Nigeria,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,28.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,WSM,Samoa,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,38.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SSD,South Sudan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,38.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SUR,Suriname,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,57.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TZA,Tanzania,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,49.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARE,United Arab Emirates,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,16.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,A,America,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,16.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEL,Belgium,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,10.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAN,Canada,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,17.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CZE,Czechia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DEU,Germany,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,6.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRL,Ireland,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,14.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KOR,Korea,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,15.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHE,Switzerland,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,12.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUR,Türkiye,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,31.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OECD,OECD,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,13.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DZA,Algeria,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,60.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGD,Bangladesh,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,27.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CMR,Cameroon,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,83.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAF,Central African Republic,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,65.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DOM,Dominican Republic,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,14.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLV,El Salvador,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,27.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNQ,Equatorial Guinea,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,39.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GEO,Georgia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,27.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GHA,Ghana,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,38.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KAZ,Kazakhstan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,34.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,XKV,Kosovo,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,15.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KGZ,Kyrgyzstan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,29.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LSO,Lesotho,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,9.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDG,Madagascar,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,38.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDA,Moldova,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,8.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MOZ,Mozambique,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,19.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,RWA,Rwanda,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,19.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SGP,Singapore,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,46.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ZAF,South Africa,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,2.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,A,America,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,25.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,E,Europe,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,17.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,S,Asia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,51.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CRI,Costa Rica,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,3.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MEX,Mexico,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,16.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NLD,Netherlands,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,18.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NZL,New Zealand,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRA,Brazil,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,16.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HKG,Hong Kong (China),SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,32.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KWT,Kuwait,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,33.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MWI,Malawi,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,31.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLI,Mali,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,55.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NPL,Nepal,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,40.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAK,Pakistan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,44.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRY,Paraguay,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,20.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ROU,Romania,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,7.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SEN,Senegal,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,74.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UZB,Uzbekistan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,9.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VEN,Venezuela,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,9.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEL,Belgium,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,4.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAN,Canada,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,17.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRL,Ireland,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,3.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KOR,Korea,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,28.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVK,Slovak Republic,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,21.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVK,Slovak Republic,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,14.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHE,Switzerland,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,11.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHE,Switzerland,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,0.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BLZ,Belize,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,22.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRA,Brazil,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,26.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BFA,Burkina Faso,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,23.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ETH,Ethiopia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,17.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRQ,Iraq,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,87.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRQ,Iraq,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,51.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JOR,Jordan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,54.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDG,Madagascar,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,41.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDG,Madagascar,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,30.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNG,Mongolia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,14.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MAR,Morocco,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,33.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SGP,Singapore,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,52.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TZA,Tanzania,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,34.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TZA,Tanzania,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,34.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,THA,Thailand,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,43.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,VEN,Venezuela,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,16.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,S,Asia,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,36.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRL,Ireland,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,16.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISR,Israel,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,31.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWE,Sweden,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,15.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CHE,Switzerland,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OECD,OECD,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,15.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ALB,Albania,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,7.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DZA,Algeria,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,79.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AZE,Azerbaijan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,29.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGD,Bangladesh,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,81.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COG,Congo,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,46.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLV,El Salvador,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,13.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNQ,Equatorial Guinea,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,55.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRQ,Iraq,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,40.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JOR,Jordan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,47.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBR,Liberia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,59.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDG,Madagascar,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,43.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MNG,Mongolia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,13.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MAR,Morocco,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,42.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OMN,Oman,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,42.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SRB,Serbia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,20.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SGP,Singapore,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,41.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,THA,Thailand,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,33.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,S,Asia,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,30.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DEU,Germany,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LVA,Latvia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,12.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SVK,Slovak Republic,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BGD,Bangladesh,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,49.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEN,Benin,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,14.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BIH,Bosnia and Herzegovina,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,31.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BIH,Bosnia and Herzegovina,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,27.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BFA,Burkina Faso,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,19.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BDI,Burundi,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,40.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLV,El Salvador,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,22.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GHA,Ghana,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,28.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HND,Honduras,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,38.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,HKG,Hong Kong (China),SIGI,SIGI score,0_TO_100,0-100 scale,2023,,25.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,IRN,Iran,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,64.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,JOR,Jordan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,33.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KAZ,Kazakhstan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,20.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LSO,Lesotho,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,46.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBR,Liberia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,38.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLI,Mali,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,38.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MLT,Malta,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,19.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MOZ,Mozambique,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,7.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NPL,Nepal,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,15.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,NGA,Nigeria,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,46.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAK,Pakistan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,59.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PAN,Panama,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,11.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ROU,Romania,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,20.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SEN,Senegal,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,35.5,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SRB,Serbia,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,14.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TZA,Tanzania,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,29.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,E,Europe,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,12.2,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BEL,Belgium,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,6.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CAN,Canada,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,13.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CZE,Czechia,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,20.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FRA,France,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,5.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KOR,Korea,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,13.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LVA,Latvia,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,7.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PRT,Portugal,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,12.9,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TUR,Türkiye,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,24.0,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BFA,Burkina Faso,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,29.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GHA,Ghana,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,44.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GUY,Guyana,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,9.4,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MUS,Mauritius,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,47.1,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MOZ,Mozambique,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,21.6,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PNG,Papua New Guinea,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,48.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,YEM,Yemen,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,89.7,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,E,Europe,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,13.8,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBY,Libya,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CYP,Cyprus,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYC,Seychelles,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNQ,Equatorial Guinea,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AFG,Afghanistan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TLS,Timor-Leste,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,20.3,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TKM,Turkmenistan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ERI,Eritrea,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRN,Brunei Darussalam,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SUR,Suriname,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LUX,Luxembourg,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNQ,Equatorial Guinea,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRN,Brunei Darussalam,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DMA,Dominica,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ATG,Antigua and Barbuda,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GUY,Guyana,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,STP,Sao Tome and Principe,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRB,Barbados,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FJI,Fiji,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARE,United Arab Emirates,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHS,Bahamas,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FJI,Fiji,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRN,Brunei Darussalam,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TKM,Turkmenistan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DZA,Algeria,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DJI,Djibouti,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYC,Seychelles,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SUR,Suriname,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRD,Grenada,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,WSM,Samoa,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,YEM,Yemen,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PNG,Papua New Guinea,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CPV,Cabo Verde,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,FJI,Fiji,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYC,Seychelles,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AFG,Afghanistan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRD,Grenada,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHS,Bahamas,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KWT,Kuwait,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRN,Brunei Darussalam,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISL,Iceland,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,STP,Sao Tome and Principe,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRB,Barbados,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TKM,Turkmenistan,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AFG,Afghanistan,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ERI,Eritrea,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYC,Seychelles,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNQ,Equatorial Guinea,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ERI,Eritrea,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARE,United Arab Emirates,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PNG,Papua New Guinea,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYR,Syrian Arab Republic,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNB,Guinea-Bissau,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,WSM,Samoa,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CUB,Cuba,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DMA,Dominica,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,STP,Sao Tome and Principe,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNB,Guinea-Bissau,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLB,Solomon Islands,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDV,Maldives,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LUX,Luxembourg,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OMN,Oman,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UZB,Uzbekistan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DMA,Dominica,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ATG,Antigua and Barbuda,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CYP,Cyprus,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ISL,Iceland,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DZA,Algeria,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CUB,Cuba,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OMN,Oman,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHR,Bahrain,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,WSM,Samoa,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,OMN,Oman,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWZ,Eswatini,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ERI,Eritrea,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNB,Guinea-Bissau,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ARE,United Arab Emirates,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRD,Grenada,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,YEM,Yemen,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CPV,Cabo Verde,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLB,Solomon Islands,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRB,Barbados,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHS,Bahamas,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TLS,Timor-Leste,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHR,Bahrain,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MDV,Maldives,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,UZB,Uzbekistan,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AFG,Afghanistan,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GNB,Guinea-Bissau,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MUS,Mauritius,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GUY,Guyana,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,MUS,Mauritius,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBY,Libya,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SLB,Solomon Islands,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DMA,Dominica,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SYR,Syrian Arab Republic,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ATG,Antigua and Barbuda,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,GRD,Grenada,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BHS,Bahamas,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,AFG,Afghanistan,SIGI_DF,Discrimination in the family,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,PNG,Papua New Guinea,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,CPV,Cabo Verde,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,DJI,Djibouti,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COG,Congo,SIGI_RPI,Restricted physical integrity,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,ATG,Antigua and Barbuda,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,TLS,Timor-Leste,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,LBY,Libya,SIGI_RAPFR,Access to productive and financial assets,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,KWT,Kuwait,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,BRB,Barbados,SIGI_RCL,Restricted civil liberties,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,COG,Congo,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
+DATAFLOW,OECD.DEV.NPG:DSD_SIGI@DF_SIGI_2023(1.0),Social Institutions and Gender Index (SIGI) 2023,I,SWZ,Eswatini,SIGI,SIGI score,0_TO_100,0-100 scale,2023,,,,A,Normal value
