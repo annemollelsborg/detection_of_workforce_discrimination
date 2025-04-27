@@ -4,7 +4,7 @@ import os
 import re
 
 # --- Settings ---
-pdf_folder = "/Users/annemoll/Desktop/jobs/pdffiles"  # <-- set this to your folder containing PDFs
+pdf_folder = "pdffiles"  # <-- set this to your folder containing PDFs
 csv_path = "job_descriptions.csv"
 
 # Noise we want to remove
