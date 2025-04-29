@@ -37,10 +37,22 @@ df['field_gender_user'] = df['Male or female'].map(user_gender_mapping)
 # --- Define Danish stopwords ---
 danish_stopwords = set(stopwords.words('danish'))
 
+
 # --- Define custom extra stopwords to clean scraping artifacts ---
 custom_stopwords = danish_stopwords.union({
     'indeed', 'dk', 'https', 'com', 're', 'ans', 'from', 'viewjob', 'in', 'the', 
-    'st', 'to', 'jk', 'ger', 'hj', 'tter', 'stillingen', 'arbejde', 'job', 'del'
+    'st', 'to', 'jk', 'ger', 'hj', 'tter', 'stillingen', 'arbejde', 'job', 'del',
+    'vores', 'kan', 'kommune', 'arbejder', 'gode', 'tv', 'fokus', 'samt',
+    'mere', 'ved', 'godt', 'forbindelse', 'side', 'lp', 'opret', 'udvikling',
+    'mulighed', 'skabe', 'lande', 'and', 'erfaring', 'dine', 'website',
+    'konto', 'god', 'bende', 'danmark', 'team', 'samarbejde', 'fuldtid', 
+    'tilbyder', 'arbejdsplads', 'rapportering', 'sammen', 'se', 'kollegaer', 
+    'pr', 'velkommen', 'dit', 'inden', 'hverdag', 'via', 'glostrup',
+    'maj', 'dansk', 'kontakte', 'derfor', 'gerne', 'hele', 'andre', 'stor', 
+    'cv', 'ring', 'as', 'will', 'region', 'via', 'plads', 'timer', 'maj', 
+    'albertslund', 'rende', 'are', 'is', 'kommer', 'forst', 'mellem', 'ballerup', 
+    'roskilde', 'center', 'tid', 'ser', 'baggrund', 'overenskomst', 'virksomhed', 
+    'fordel', 'kolleger', 'kollega', 'hver', 'permanent'
 })
 
 # --- Preprocessing function ---
