@@ -75,7 +75,7 @@ def extract_title_and_description(pdf_path): # Function to extract title and des
     fixed_description = fix_encoding(full_description)
     fixed_description = clean_text(fixed_description)
     doc.close()
-    
+
     return fixed_title, fixed_description
 
 def save_to_csv(jobs, csv_path): # Function to save all jobs to CSV
